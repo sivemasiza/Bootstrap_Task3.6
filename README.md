@@ -1,17 +1,29 @@
 
 # Bootstrap Project
 
-A brief description of what this project does and who it's for
+Its an online store that sells Jackets
 
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@sivemasiza](https://www.github.com/sivemasiza)
 
 
-## Acknowledgements
+## Deployment
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+To deploy this project run
+
+```bash
+  http://127.0.0.1:5500/ShoppingPage.html
+```
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/sivemasiza/Bootstrap_Task3.6/blob/9a9a0c137019ca8aa182100003478a08905166b4/Screenshot%20(10).png)
+
+![App Screenshot](https://github.com/sivemasiza/Bootstrap_Task3.6/blob/9a9a0c137019ca8aa182100003478a08905166b4/Screenshot%20(9).png
+
+![App Screenshot](https://github.com/sivemasiza/Bootstrap_Task3.6/blob/9a9a0c137019ca8aa182100003478a08905166b4/Screenshot%20(11).png)
+
 
